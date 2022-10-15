@@ -1,6 +1,6 @@
 # Hi there, I'm John James<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/PrBqoD9VLEBBpYnJvx/giphy.gif" />
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/PrBqoD9VLEBBpYnJvx/giphy.gif" />
 
 ## I'm a Software Developer Student  
 
