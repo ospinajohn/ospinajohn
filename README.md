@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/PrBqoD9VLEBBpYnJvx/giphy.gif" />
 
-## I'm a Software Developer Student  
+## I'm a Software Developer  
 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
